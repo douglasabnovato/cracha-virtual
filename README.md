@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 ---  
 
 Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/) 
-Fonte do projeto Por Rocketseat no [Next Level Week Together](https://nextlevelweek.com/)
+Fonte do projeto Por Rocketseat no [Next Level Week Heat](https://nextlevelweek.com/)

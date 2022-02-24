@@ -37,6 +37,14 @@ O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar 
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## 💻 Detalhes na construção do Projeto
+
+- [] stage 1
+- [] stage 2
+- [] stage 3
+- [] stage 4
+- [] stage 5
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.

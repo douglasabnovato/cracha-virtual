@@ -38,11 +38,11 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 💻 Detalhes na construção do Projeto
 
-- [] stage 1
-- [] stage 2
-- [] stage 3
-- [] stage 4
-- [] stage 5
+- [ ] stage 1
+- [ ] stage 2
+- [ ] stage 3
+- [ ] stage 4
+- [ ] stage 5
 
 ## :memo: Licença
 

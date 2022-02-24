@@ -27,6 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- API GitHub
 
 ## 💻 Projeto
 
@@ -37,6 +38,17 @@ O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 💻 Detalhes na construção do Projeto
+
+- [ ] Abertura além do código
+- impulsionar a carreira com uma metodologia que envolve consistência, foco, comunidade (discord)
+- o mercado oferece oportunidades local e global
+- desenvolver um projeto pessoal que expor os projetos de tutoriais em formato de loja virtual
+- mentalidade é dedicar tempo de qualidade para: focar em quanto estiver programando, estudando e descansando.
+- descanso de qualidade é importante no resultado
+- persistência. "Não é praticar até acertar. É praticar até não errar mais."
+- programar é encontrar soluções.
+- programação: algoritmo, lógica de programação, sintaxe
+- linguagem de programação: frontend, javascript
 
 - [ ] stage 1
 - [ ] stage 2

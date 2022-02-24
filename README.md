@@ -37,9 +37,13 @@ O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar 
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+<p align="center">
+  <img alt="douglas a b novato" src="./.github/douglasabnovato.jpg" width="450px">
+</p>
+
 ## 💻 Detalhes na construção do Projeto
 
-- [ ] Abertura além do código
+- [x] Abertura além do código
 - impulsionar a carreira com uma metodologia que envolve consistência, foco, comunidade (discord)
 - o mercado oferece oportunidades local e global
 - desenvolver um projeto pessoal que expor os projetos de tutoriais em formato de loja virtual
@@ -51,6 +55,10 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - linguagem de programação: frontend, javascript
 
 - [ ] stage 1
+- estrutura do html
+- Google Chrome: Inspecionar Código
+- Google Chrome: Debbugar Código
+
 - [ ] stage 2
 - [ ] stage 3
 - [ ] stage 4

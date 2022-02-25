@@ -72,7 +72,7 @@ Alterado uma versão para o @douglasabnovato.
 - Extensão Live Server no VSCode para rodar um servidor
 - formatação do css: Cascading Style Sheets
 
-- [ ] stage 2
+- [x] stage 2
 - o que é html: hyper text markup language, ou seja, linguagem de marcação de texto
 - a tag e anatomia: tags, atributos, valores de atributos, conteúdo de tag
 - alinhamento do html
@@ -90,6 +90,14 @@ Alterado uma versão para o @douglasabnovato.
 - converter pixel(px) em rem: valor em px / 16
 - parâmetros: top right bottom left || top left+right bottom || top+bottom left+right
 - ferramenta de formas Css clip-path maker: construir o polígono da imagem foto: propriedade css `clip-path: polygon(values)` com os valores consultados nesse link
+- seletores do css: `.avatar img {}` e `.avatar > img {}`. Onde, no primeiro, todos os objetos img receberão os efeitos entre {}. Já no segundo, somente os seletores img do nível seguinte ao avatar receberão os efeitos entre {}.
+- `object-fit: cover`: corrige a imagem com proporcionalidade das dimensões da imagem respeitando as dimensões originais.
+- estilizar o seletor ul: `list-style: none` tirar as bolinhas de marcação dos itens de lista.
+- estilizar o seletor ul: `display: flex` permite que os elementos fiquem lado a lado.
+- estilizar o seletor ul: `gap: 0.5rem` insere espaço entre os elementos.
+- estilizar o seletor ul: `justify-content: center` seta o alinhamento para central.
+- estilizar o seletor body: `grid` orienta o elemento no eixo x e y
+- estilizar o seletor ul: `flex` orienta o elemento no eixo x. Se adicionar `flex-direction`: column muda para y     
 
 - [ ] stage 3
 - [ ] stage 4

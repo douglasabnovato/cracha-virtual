@@ -47,7 +47,7 @@ Alterado uma versão para o @douglasabnovato.
 
 <p align="center">
   <img alt="douglas a b novato" src="./.github/douglasabnovato.jpg" width="450px">
-  <img alt="jessica alves" src="./.github/jessica-alves.jpeg" width="450px">
+  <img alt="crachá jessica alves" src="./.github/jessica-alves-cracha.jpeg" width="450px">
   <img alt="inspecionar elemento google chrome" src="./.github/inspecionar-elemento.jpg" width="450px">
 </p>
 

@@ -1,3 +1,9 @@
+const fotoJessica = "./.github/jessica-alves.jpeg"
+const bioJessica = "Líder no setor de Fisioterapia"
+const nameJessica = "Jéssica Alves"
+const loginJessica = "@jeehjeehalves"
+
+
 const LinksSocialMedia = {
   github: 'douglasabnovato',
   youtube: 'douglasabnovato',
@@ -22,11 +28,11 @@ function getGitHubProfileInfos() {
   fetch(url)
     .then(response => response.json())
     .then(data => {
-      userName.textContent = data.name
-      userBio.textContent = data.bio
+      userName.textContent = nameJessica
+      userBio.textContent = bioJessica
       userLink.href = data.html_url
-      UserImage.src = data.avatar_url
-      userLogin.textContent = data.login
+      userLogin.textContent = loginJessica
+      UserImage.src = fotoJessica
     })
 }
 

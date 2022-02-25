@@ -123,6 +123,19 @@ Alterado uma versão para o @douglasabnovato.
 - Github Pages: hospedar nossa aplicação estática: github>settings>pages: configurações interessantes
 
 - [ ] stage 5
+- adaptar a largura do dispositivo: `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`
+- breakpoints(ponto de quebra de tela) e at rule para versões de tela: 
+````css
+@media (min-width: 720px){
+  /*versão tablet*/
+}
+
+@media (min-width: 960px){
+  /*versão desktop*/
+}
+````
+- mudar cores
+- inserir animações
 
 ## :memo: Licença
 

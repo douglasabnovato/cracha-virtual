@@ -47,7 +47,7 @@ Alterado uma versão para o @douglasabnovato.
 
 <p align="center">
   <img alt="douglas a b novato" src="./.github/douglasabnovato.jpg" width="450px">
-  <img alt="douglas a b novato" src="./.github/inspeciona-elemento.jpg" width="450px">
+  <img alt="douglas a b novato" src="./.github/inspecionar-elemento.jpg" width="450px">
 </p>
 
 ## 💻 Detalhes na construção do Projeto

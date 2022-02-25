@@ -46,8 +46,8 @@ Utilizar o figma para pegar os detalhes do projeto e então, criar a estilizaç�
 Alterado uma versão para o @douglasabnovato.
 
 <p align="center">
-  <img alt="douglas a b novato" src="./.github/douglasabnovato.jpg" width="450px">
-  <img alt="crachá jessica alves" src="./.github/jessica-alves-cracha.jpeg" width="450px">
+  <img alt="douglas a b novato" src="./.github/douglasabnovato.jpg" width="400px">
+  <img alt="crachá jessica alves" src="./.github/jessica-alves-cracha.jpeg" width="400px">
   <img alt="inspecionar elemento google chrome" src="./.github/inspecionar-elemento.jpg" width="450px">
 </p>
 
@@ -100,6 +100,10 @@ Alterado uma versão para o @douglasabnovato.
 - estilizar o seletor ul: `flex` orienta o elemento no eixo x. Se adicionar `flex-direction`: column muda para y     
 
 - [ ] stage 3
+- inserindo alguns elementos o javascript 
+- funções: changeSocialMediaLinks
+- objeto: LinksSocialMedia
+
 - [ ] stage 4
 - [ ] stage 5
 

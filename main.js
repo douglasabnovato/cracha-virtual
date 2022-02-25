@@ -22,7 +22,6 @@ changeSocialMediaLinks()
 /**
  * preencher as informações de perfil chamando dados da api github
  */
-
 function getGitHubProfileInfos() {
   const url = `https://api.github.com/users/${LinksSocialMedia.github}`
 

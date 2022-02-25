@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/nlw-heat.png" width="100%">
+  <img alt="crachá-virtual" src=".github/nlw-heat.png" width="85%">
 </p>
 
 ## 🚀 Tecnologias
@@ -99,12 +99,18 @@ Alterado uma versão para o @douglasabnovato.
 - estilizar o seletor body: `grid` orienta o elemento no eixo x e y
 - estilizar o seletor ul: `flex` orienta o elemento no eixo x. Se adicionar `flex-direction`: column muda para y     
 
-- [ ] stage 3
+- [x] stage 3
 - inserindo alguns elementos o javascript 
-- funções: changeSocialMediaLinks
-- objeto: LinksSocialMedia
+- criar função: changeSocialMediaLinks
+- criar objeto: LinksSocialMedia
 
 - [ ] stage 4
+- inserindo alguns elementos o javascript 
+- criar função: getGitHubProfileInfos 
+- API
+- Json
+- Github Pages
+
 - [ ] stage 5
 
 ## :memo: Licença

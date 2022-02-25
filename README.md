@@ -47,6 +47,7 @@ Alterado uma versão para o @douglasabnovato.
 
 <p align="center">
   <img alt="douglas a b novato" src="./.github/douglasabnovato.jpg" width="450px">
+  <img alt="douglas a b novato" src="./.github/inspeciona-elemento.jpg" width="450px">
 </p>
 
 ## 💻 Detalhes na construção do Projeto
@@ -65,7 +66,7 @@ Alterado uma versão para o @douglasabnovato.
 - linguagem de programação: frontend, javascript
 
 - estrutura do html
-- Google Chrome: Inspecionar Código
+- Google Chrome: Inspecionar Código (F12)
 - Google Chrome: Debbugar Código
 - Extensão Live Server no VSCode para rodar um servidor
 - formatação do css: Cascading Style Sheets

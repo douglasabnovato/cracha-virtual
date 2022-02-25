@@ -29,7 +29,7 @@ function getGitHubProfileInfos() {
     .then(response => response.json())//conversão da resposta em json
     .then(data => { //com todo o objeto json
       userName.textContent = data.name // separar elementos que me interessam e passar para o html correspondente
-      userBio.textContent = data.bio
+      userBio.textContent = data.bio // h1 id="userName" referenciando o id do elemento no html com propriedade textContent
       userLink.href = data.html_url
       UserImage.src = data.avatar_url
       userLogin.textContent = data.login

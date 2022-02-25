@@ -125,8 +125,7 @@ Alterado uma versão para o @douglasabnovato.
 - array function: () => { }
 - transformar resposta em json: `.then(response => response.json())`
 - transformar resposta em elementos do html: `.then(data => { userName.textContent = data.name }`
-
-- Github Pages
+- Github Pages: hospedar nossa aplicação estática
 
 - [ ] stage 5
 

@@ -77,13 +77,16 @@ Alterado uma versão para o @douglasabnovato.
 - processo de aprendizado: learn by doing (aprender fazendo), learn by concepts (aprender conceitos e depois fazer)
 - especificidade do css: inline css > id selector > class, pseudo class, attribute selector > element selector
 - unidade de medida e responsividade
-- box model
+- box model: content(height x width) > padding > border > margin
 - layout
 - usar o figma para consultar os detalhes do layout e criar a estilização fiel ao projeto
 - como identificar os elementos no figma para serem criados no nosso projeto e estruturados em html
 - html/body/main/container/avatar/img selo|img foto
 - objetos aleatórios para construir primeiro esboço: images: http://lorempixel.com.br/185/185/people/, texts: https://www.lipsum.com/
-
+- html, body, main, container: configurando elementos 
+- font google: Roboto: regular 400, bold 700. Três tag link. Então, `font-family: 'Roboto', sans-serif;`
+- converter pixel(px) em rem: valor em px / 16
+- parâmetros: top right bottom left || top left+right bottom || top+bottom left+right
 
 - [ ] stage 3
 - [ ] stage 4

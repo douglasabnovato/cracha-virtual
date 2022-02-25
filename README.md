@@ -121,8 +121,7 @@ Alterado uma versão para o @douglasabnovato.
 - transformar resposta em json: `.then(response => response.json())`
 - transformar resposta em elementos do html: `.then(data => { userName.textContent = data.name }`
 - Github Pages: hospedar nossa aplicação estática: github>settings>pages: configurações interessantes
-
-- [ ] stage 5
+- [x] stage 5
 - adaptar a largura do dispositivo: `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`
 - breakpoints(ponto de quebra de tela) e at rule para versões de tela: 
 ````css

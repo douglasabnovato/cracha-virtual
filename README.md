@@ -105,10 +105,27 @@ Alterado uma versão para o @douglasabnovato.
 - criar objeto: LinksSocialMedia
 
 - [ ] stage 4
-- inserindo alguns elementos o javascript 
+- API Github: https://api.github.com/ exibe rotas disponíveis.
+- Json: em formato de objeto javascript para transitar informações.
+````json
+"prop":"value",
+"string":"texting",
+"number":7,
+"boolean": true,
+"array": [],
+"object":{}
+
+````
+- inserindo alguns elementos javascript no main.js
 - criar função: getGitHubProfileInfos 
-- API
-- Json
+- template string: envolvendo entre crase para inserir variável: `https://api.github.com/users/${LinksSocialMedia.github}`
+- função fetch para buscar dados na url: fetch()
+- promise para pegar a resposta dessa busca: .then()
+- recebendo do fetch a response
+- array function: () => { }
+- transformar resposta em json: `.then(response => response.json())`
+- transformar resposta em elementos do html: `.then(data => { userName.textContent = data.name }`
+
 - Github Pages
 
 - [ ] stage 5

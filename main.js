@@ -1,3 +1,6 @@
+/**
+ * montar os links das redes sociais dinamicamente
+ */
 const LinksSocialMedia = {
   github: 'douglasabnovato',
   youtube: 'douglasabnovato',
@@ -7,14 +10,18 @@ const LinksSocialMedia = {
 }
 
 function changeSocialMediaLinks() {
-  for (let li of socialLinks.children) {
-    const social = li.getAttribute('class')
+  for (let li of socialLinks.children) {// filho de id="socialLinks"
+    const social = li.getAttribute('class')//o primeiro filho é li class="youtube"
 
     li.children[0].href = `https://${social}.com/${LinksSocialMedia[social]}`
   }
 }
 
 changeSocialMediaLinks()
+
+/**
+ * preencher as informações de perfil chamando dados da api github
+ */
 
 function getGitHubProfileInfos() {
   const url = `https://api.github.com/users/${LinksSocialMedia.github}`

@@ -54,7 +54,6 @@ Alterado uma versão para o @douglasabnovato.
 ## 💻 Detalhes na construção do Projeto
 
 - [x] stage 1
-
 - [x] Abertura além do código
 - impulsionar a carreira com uma metodologia que envolve consistência, foco, comunidade (discord)
 - o mercado oferece oportunidades local e global
@@ -65,13 +64,11 @@ Alterado uma versão para o @douglasabnovato.
 - programar é encontrar soluções.
 - programação: algoritmo, lógica de programação, sintaxe
 - linguagem de programação: frontend, javascript
-
 - estrutura do html
 - Google Chrome: Inspecionar Código (F12)
 - Google Chrome: Debbugar Código
 - Extensão Live Server no VSCode para rodar um servidor
 - formatação do css: Cascading Style Sheets
-
 - [x] stage 2
 - o que é html: hyper text markup language, ou seja, linguagem de marcação de texto
 - a tag e anatomia: tags, atributos, valores de atributos, conteúdo de tag
@@ -97,14 +94,12 @@ Alterado uma versão para o @douglasabnovato.
 - estilizar o seletor ul: `gap: 0.5rem` insere espaço entre os elementos.
 - estilizar o seletor ul: `justify-content: center` seta o alinhamento para central.
 - estilizar o seletor body: `grid` orienta o elemento no eixo x e y
-- estilizar o seletor ul: `flex` orienta o elemento no eixo x. Se adicionar `flex-direction`: column muda para y     
-
+- estilizar o seletor ul: `flex` orienta o elemento no eixo x. Se adicionar `flex-direction`: column muda para y  
 - [x] stage 3
 - inserindo alguns elementos o javascript 
 - criar função: changeSocialMediaLinks
 - criar objeto: LinksSocialMedia
-
-- [ ] stage 4
+- [x] stage 4
 - API Github: https://api.github.com/ exibe rotas disponíveis.
 - Json: em formato de objeto javascript para transitar informações.
 ````json
@@ -125,7 +120,7 @@ Alterado uma versão para o @douglasabnovato.
 - array function: () => { }
 - transformar resposta em json: `.then(response => response.json())`
 - transformar resposta em elementos do html: `.then(data => { userName.textContent = data.name }`
-- Github Pages: hospedar nossa aplicação estática
+- Github Pages: hospedar nossa aplicação estática: github>settings>pages: configurações interessantes
 
 - [ ] stage 5
 

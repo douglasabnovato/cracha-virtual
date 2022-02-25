@@ -89,6 +89,7 @@ Alterado uma versão para o @douglasabnovato.
 - font google: Roboto: regular 400, bold 700. Três tag link. Então, `font-family: 'Roboto', sans-serif;`
 - converter pixel(px) em rem: valor em px / 16
 - parâmetros: top right bottom left || top left+right bottom || top+bottom left+right
+- ferramenta de formas Css clip-path maker: construir o polígono da imagem foto: propriedade css `clip-path: polygon(values)` com os valores consultados nesse link
 
 - [ ] stage 3
 - [ ] stage 4

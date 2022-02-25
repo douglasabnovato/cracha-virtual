@@ -37,11 +37,21 @@ O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar 
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+Utilizar o figma para pegar os detalhes do projeto e então, criar a estilização fiel ao projeto.
+
+<p align="center">
+  <img alt="douglas a b novato" src="./.github/figma.jpg" width="450px">
+</p>
+
+Alterado uma versão para o @douglasabnovato.
+
 <p align="center">
   <img alt="douglas a b novato" src="./.github/douglasabnovato.jpg" width="450px">
 </p>
 
 ## 💻 Detalhes na construção do Projeto
+
+- [x] stage 1
 
 - [x] Abertura além do código
 - impulsionar a carreira com uma metodologia que envolve consistência, foco, comunidade (discord)
@@ -54,12 +64,22 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - programação: algoritmo, lógica de programação, sintaxe
 - linguagem de programação: frontend, javascript
 
-- [ ] stage 1
 - estrutura do html
 - Google Chrome: Inspecionar Código
 - Google Chrome: Debbugar Código
+- Extensão Live Server no VSCode para rodar um servidor
+- formatação do css: Cascading Style Sheets
 
 - [ ] stage 2
+- o que é html: hyper text markup language, ou seja, linguagem de marcação de texto
+- a tag e anatomia: tags, atributos, valores de atributos, conteúdo de tag
+- alinhamento do html
+- processo de aprendizado: learn by doing (aprender fazendo), learn by concepts (aprender conceitos e depois fazer)
+- especificidade do css: inline css > id selector > class, pseudo class, attribute selector > element selector
+- unidade de medida e responsividade
+- box model
+- layout
+
 - [ ] stage 3
 - [ ] stage 4
 - [ ] stage 5

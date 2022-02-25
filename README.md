@@ -136,6 +136,7 @@ Alterado uma versão para o @douglasabnovato.
 ````
 - mudar cores
 - inserir animações
+- usamos cameCase para nome de variável, pascalCase para nome de funções
 
 ## :memo: Licença
 
